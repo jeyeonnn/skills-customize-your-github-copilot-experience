@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "student-task-tracker-api",
+      "title": "Building a Student Task Tracker with FastAPI and SQLite",
+      "description": "Create a REST API for managing student tasks and assignments using FastAPI and SQLite.",
+      "path": "assignments/student-task-tracker-api",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
